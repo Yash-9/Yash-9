@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash-9
-- 👀 I’m interested in DevOps JAVA Python C C++ Automation
+- 👀 I’m interested in DevOps JAVA Python C C++ Automation Selenium
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me yashbhawre11@gmail.com +91-9930002946
